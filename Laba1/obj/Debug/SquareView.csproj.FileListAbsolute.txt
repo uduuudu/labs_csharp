@@ -1,0 +1,15 @@
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.csprojAssemblyReference.cache
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.Form1.resources
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.Properties.Resources.resources
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.set.resources
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.set_size.resources
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.csproj.GenerateResource.cache
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\bin\Debug\SquareView.exe.config
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\bin\Debug\SquareView.exe
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\bin\Debug\SquareView.pdb
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\bin\Debug\SquareModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\bin\Debug\SquareModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.csproj.CopyComplete
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.exe
+C:\Users\offmu\source\repos\CSharpLabi\SquareView\obj\Debug\SquareView.pdb
