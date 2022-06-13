@@ -1,0 +1,5 @@
+C:\Users\offmu\source\repos\CSharpLabi\ShipsModel\bin\Debug\ShipsModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ShipsModel\bin\Debug\ShipsModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ShipsModel\obj\Debug\ShipsModel.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipsModel\obj\Debug\ShipsModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ShipsModel\obj\Debug\ShipsModel.pdb
