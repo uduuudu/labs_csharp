@@ -1,0 +1,6 @@
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\bin\Debug\SquareModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\bin\Debug\SquareModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\obj\Debug\SquareModel.csprojAssemblyReference.cache
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\obj\Debug\SquareModel.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\obj\Debug\SquareModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\SquareModel\obj\Debug\SquareModel.pdb
