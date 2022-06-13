@@ -1,0 +1,15 @@
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.csprojAssemblyReference.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.AddEdit.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.Properties.Resources.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.setCargo.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.ShipWork.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.csproj.GenerateResource.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\bin\Debug\ShipView.exe.config
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\bin\Debug\ShipView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\bin\Debug\ShipView.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\bin\Debug\ShipModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\bin\Debug\ShipModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.csproj.CopyComplete
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ShipView\obj\Debug\ShipView.pdb

@@ -1,0 +1,13 @@
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\bin\Debug\ShipsView.exe.config
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\bin\Debug\ShipsView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\bin\Debug\ShipsView.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\bin\Debug\ShipsModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\bin\Debug\ShipsModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.csprojAssemblyReference.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.Form1.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.Properties.Resources.resources
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.csproj.GenerateResource.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.csproj.CopyComplete
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ShipsView\obj\Debug\ShipsView.pdb
