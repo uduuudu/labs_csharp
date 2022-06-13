@@ -1,0 +1,5 @@
+C:\Users\offmu\source\repos\CSharpLabi\ExamModel\obj\Debug\ExamModel.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\ExamModel\bin\Debug\ExamModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ExamModel\bin\Debug\ExamModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ExamModel\obj\Debug\ExamModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ExamModel\obj\Debug\ExamModel.pdb

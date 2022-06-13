@@ -1,0 +1,13 @@
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.Properties.Resources.resources
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.workExamcs.resources
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.csproj.GenerateResource.cache
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.csproj.CoreCompileInputs.cache
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.csprojAssemblyReference.cache
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\bin\Debug\ExamView.exe.config
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\bin\Debug\ExamView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\bin\Debug\ExamView.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\bin\Debug\ExamModel.dll
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\bin\Debug\ExamModel.pdb
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.csproj.CopyComplete
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.exe
+C:\Users\offmu\source\repos\CSharpLabi\ExamView\obj\Debug\ExamView.pdb
